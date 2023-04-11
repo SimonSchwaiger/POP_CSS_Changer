@@ -1,0 +1,29 @@
+[
+    {
+        "filepath": "/usr/share/gnome-shell/extensions/pop-cosmic@system76.com/light.css",
+        "prop": ".cosmic-applications-dialog .overview-icon",
+        "prevVal": "color: \\w*;",
+        "newVal": "color: white;"
+    },
+    {
+        "prop": ".cosmic-applications-available",
+        "prevVal": "color: \\w*;",
+        "newVal": "color: white;"
+    },
+    {
+        "prop": ".cosmic-applications-icon",
+        "prevVal": "color: #555555;",
+        "newVal": "color: white;"
+    },
+    {
+        "prop": ".app-well-app:hover .overview-icon, .app-well-app:selected .overview-icon",
+        "prevVal": "background-color: #d0d0d0;",
+        "newVal": "background-color: #4c4e55;"
+    },
+    {
+        "filepath": "/usr/share/gnome-shell/extensions/pop-cosmic@system76.com/stylesheet.css",
+        "prop": ".cosmic-applications-separator",
+        "prevVal": "background: #000000;",
+        "newVal": "background: white;"
+    }
+]
